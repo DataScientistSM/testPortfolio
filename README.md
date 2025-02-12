@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am currently on an apprenticeship to complate a data science degree with BPP whilst working at Direct Line Group
+I am currently on an apprenticeship to complete a data science degree with BPP whilst working at Direct Line Group
 
 ## Work Experience
 
