@@ -1,5 +1,9 @@
 # DataScience CV
 
+##About Me
+
+I am currently on an apprenticeship to complate a data science degree with BPP whilst working at Direct Line Group
+
 ## Work Experience
 
 ### September 2012 - Current 
